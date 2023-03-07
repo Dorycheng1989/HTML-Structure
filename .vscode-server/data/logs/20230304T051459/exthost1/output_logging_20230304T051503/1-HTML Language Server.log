@@ -1,0 +1,30 @@
+[Error - 7:14:35 AM] Request textDocument/completion failed.
+Error: Starting server failed
+	at x.$start (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:752006)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async x.sendRequest (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:736165)
+	at async J.provideCompletionItems (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:98:44959)
+[Error - 7:14:35 AM] Request textDocument/completion failed.
+Error: Starting server failed
+	at x.$start (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:752006)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async x.sendRequest (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:736165)
+	at async J.provideCompletionItems (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:98:44959)
+[Error - 7:14:35 AM] Sending document notification textDocument/didChange failed
+Error: Starting server failed
+	at x.$start (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:752006)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async x.sendNotification (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:737350)
+	at async s (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:889126)
+	at async Promise.all (index 0)
+[Error - 7:14:35 AM] Sending document notification textDocument/didChange failed
+Error: Starting server failed
+	at x.$start (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:752006)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async x.sendNotification (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:737350)
+	at async s (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:889126)
+	at async Promise.all (index 0)

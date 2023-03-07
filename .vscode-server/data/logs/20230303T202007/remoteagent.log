@@ -1,0 +1,18 @@
+2023-03-03 20:20:07.914 [info] 
+
+
+
+
+2023-03-03 20:20:07.914 [info] Extension host agent started.
+2023-03-03 20:20:07.978 [info] Started initializing default profile extensions in extensions installation folder. file:///home/dorybrown/.vscode-server/extensions
+2023-03-03 20:20:08.019 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/dorybrown/.vscode-server/extensions
+2023-03-03 20:20:08.228 [info] [127.0.0.1][f225ba1c][ManagementConnection] New connection established.
+2023-03-03 20:20:08.703 [info] [127.0.0.1][84b08d1c][ExtensionHostConnection] New connection established.
+2023-03-03 20:20:09.255 [info] [127.0.0.1][84b08d1c][ExtensionHostConnection] <29096> Launched Extension Host Process.
+2023-03-03 20:22:00.506 [info] [127.0.0.1][f225ba1c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-03 20:22:00.538 [info] [127.0.0.1][84b08d1c][ExtensionHostConnection] <29096> Extension Host Process exited with code: 0, signal: null.
+2023-03-03 20:22:03.982 [info] [127.0.0.1][4c6a65b3][ManagementConnection] New connection established.
+2023-03-03 20:22:05.249 [info] [127.0.0.1][2fe99289][ExtensionHostConnection] New connection established.
+2023-03-03 20:22:05.261 [info] [127.0.0.1][2fe99289][ExtensionHostConnection] <29140> Launched Extension Host Process.
+2023-03-03 20:25:21.571 [info] [127.0.0.1][4c6a65b3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-03 20:25:21.604 [info] [127.0.0.1][2fe99289][ExtensionHostConnection] <29140> Extension Host Process exited with code: 0, signal: null.

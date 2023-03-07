@@ -1,0 +1,562 @@
+2023-03-04 05:15:03.423 [info] Extension host with pid 1555 started
+2023-03-04 05:15:03.479 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-04 05:15:03.482 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-04 05:15:03.530 [info] Lock '/home/dorybrown/.vscode-server/data/User/workspaceStorage/e26b4b3fbfa0d43f275c8a7aefbaec0b/vscode.lock': Lock acquired.
+2023-03-04 05:15:03.636 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-04 05:15:03.637 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-04 05:15:04.090 [info] Eager extensions activated
+2023-03-04 05:15:04.091 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-04 05:15:04.092 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-04 05:15:05.457 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6742
+2023-03-04 05:15:07.511 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:15:24.301 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:15:29.572 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:15:35.037 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:15:40.261 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:15:45.562 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:15:50.826 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:15:56.147 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:01.412 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:06.708 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:11.959 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:17.206 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:22.591 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:27.853 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:33.101 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:38.383 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:43.681 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:48.903 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:54.190 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:16:59.458 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:17:04.773 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:17:09.983 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:17:15.254 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:17:20.581 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:17:25.879 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:17:31.194 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:17:36.453 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:17:41.711 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:17:47.001 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:17:52.255 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:17:57.528 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:18:02.814 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:18:08.102 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:18:13.391 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:18:18.609 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:18:23.889 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:18:29.171 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:18:34.467 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:18:39.724 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:18:45.001 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:18:50.283 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:18:55.566 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:00.814 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:06.080 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:11.364 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:16.626 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:21.856 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:27.097 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:32.334 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:37.611 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:42.871 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:48.101 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:53.394 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:19:58.680 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:20:03.943 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:20:09.323 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:20:14.565 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:20:19.826 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:20:25.117 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:20:30.330 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:20:35.596 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:20:40.883 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:20:46.165 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:20:51.491 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:20:56.764 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:21:02.071 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:21:07.400 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:21:12.692 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 05:21:51.074 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:12:43.186 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:12:48.446 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:12:53.684 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:12:58.906 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:13:04.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:13:09.364 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:13:14.610 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:13:19.915 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:13:25.225 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:13:30.412 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:13:35.628 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:13:40.883 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:13:46.135 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:13:51.393 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:13:56.630 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:01.924 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:07.183 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:12.414 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:17.687 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:22.967 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:28.218 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:33.471 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:38.763 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:44.137 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:49.392 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:54.671 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:14:59.990 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:15:05.302 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:15:10.553 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:15:15.813 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:15:21.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:15:26.408 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:15:40.228 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:15:45.489 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:15:50.789 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:15:56.033 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:16:01.309 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:16:06.631 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:16:11.927 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:16:17.252 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6743
+2023-03-04 06:16:18.384 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-03-04 06:16:22.478 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6745
+2023-03-04 06:16:28.894 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6745
+2023-03-04 06:16:34.132 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6745
+2023-03-04 06:16:39.374 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6745
+2023-03-04 06:16:44.636 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6745
+2023-03-04 07:14:23.912 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6745
+2023-03-04 07:14:33.198 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6745
+2023-03-04 07:14:35.135 [info] Extension host terminating: received terminate message from renderer
+2023-03-04 07:14:35.136 [info] Lock '/home/dorybrown/.vscode-server/data/User/workspaceStorage/e26b4b3fbfa0d43f275c8a7aefbaec0b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-03-04 07:14:35.185 [error] Canceled: Canceled
+	at Object.P [as canceled] (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:7884
+	at Array.forEach (<anonymous>)
+	at c.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:7849)
+	at f.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9323)
+	at u.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 07:14:35.186 [error] Canceled: Canceled
+	at Object.P [as canceled] (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:7884
+	at Array.forEach (<anonymous>)
+	at c.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:7849)
+	at f.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9323)
+	at u.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 07:14:35.333 [error] Canceled: Canceled
+	at new a (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at Proxy.V.<computed>.Q.charCodeAt.V.<computed> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at l.g (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at l.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at O.registerCommand.description (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at l.h (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at l.g (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at l.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1481856)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485909)
+	at D.<anonymous> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at D.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at D.<anonymous> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1469257)
+	at D.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 07:14:35.334 [error] Canceled: Canceled
+	at new a (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at Proxy.V.<computed>.Q.charCodeAt.V.<computed> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at l.g (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at l.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at O.registerCommand.description (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at l.h (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at l.g (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at l.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1481856)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485909)
+	at D.<anonymous> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at D.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at D.<anonymous> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1469257)
+	at D.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 07:14:35.334 [error] Canceled: Canceled
+	at new a (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at Proxy.V.<computed>.Q.charCodeAt.V.<computed> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at l.g (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at l.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at O.registerCommand.description (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at l.h (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at l.g (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at l.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1481856)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485909)
+	at D.<anonymous> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at D.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at D.<anonymous> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1469257)
+	at D.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 07:14:35.335 [error] Canceled: Canceled
+	at new a (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at Proxy.V.<computed>.Q.charCodeAt.V.<computed> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at l.g (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at l.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at O.registerCommand.description (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at l.h (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at l.g (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at l.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1481856)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485909)
+	at D.<anonymous> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at D.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at D.<anonymous> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1469257)
+	at D.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 07:14:35.335 [error] Canceled: Canceled
+	at new a (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at Proxy.V.<computed>.Q.charCodeAt.V.<computed> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at l.g (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at l.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at O.registerCommand.description (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at l.h (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at l.g (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at l.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1481856)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485909)
+	at D.<anonymous> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at D.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at D.<anonymous> (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1469257)
+	at D.dispose (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 07:14:35.337 [error] [vscode.html-language-features] provider FAILED
+2023-03-04 07:14:35.337 [error] Error: Starting server failed
+	at x.$start (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:752006)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async x.sendRequest (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:736165)
+	at async J.provideCompletionItems (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:98:44959)
+2023-03-04 07:14:35.337 [error] [vscode.html-language-features] provider FAILED
+2023-03-04 07:14:35.337 [error] Error: Starting server failed
+	at x.$start (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:752006)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async x.sendRequest (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:736165)
+	at async J.provideCompletionItems (/home/dorybrown/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:98:44959)
+2023-03-04 07:14:35.409 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.410 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.410 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.411 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.411 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.411 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.411 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.411 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.412 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.412 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.412 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.412 [error] Error: Cannot call write after a stream was destroyed
+	at new NodeError (node:internal/errors:371:5)
+	at errorBuffer (node:internal/streams/writable:517:14)
+	at onwriteError (node:internal/streams/writable:420:3)
+	at onwrite (node:internal/streams/writable:457:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:96:12)
+2023-03-04 07:14:35.415 [info] Extension host with pid 1555 exiting with code 0
